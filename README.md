@@ -2,7 +2,7 @@
 
 This repository contains the code and selected data associated with the paper:
 
-**Performance of models for monitoring sustainable development goals from remote sensing: a three-level meta regression **  
+**Performance of models for monitoring sustainable development goals from remote sensing: a three-level meta regression**  
 
 Published in *Quality & Quantity*, [2025].  
 
